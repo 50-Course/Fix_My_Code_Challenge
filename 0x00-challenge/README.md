@@ -6,7 +6,7 @@ The objective is to learn to debug code effectively, irrespective of the underly
 
 ## Tasks :pushpin:
 
-### Task 1
+### Task 0
 
 Please take a look at the original implementation of FizzBuzz in Python: [source code](https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/0-fizzbuzz.py)
 
@@ -23,9 +23,26 @@ $
 My solution: [0-fizzbuzz.py][1]
 
 
+### Task 3
+
+Please find here my implementation of a User class in Python: [source code](https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/3-user.py)
+
+Something is going wrong….
+
+```
+$ ./3-user.py 
+Test User
+is_valid_password should return True if it's the right password
+$
+```
+
+My tests should not print any error…
+
+My solution: [3-user.py][2]
+
 
 [1]: ../blob/master/0x00-challenge/0-fizzbuzz.py
-
+[2]: ./3-user.py
 
 
 
